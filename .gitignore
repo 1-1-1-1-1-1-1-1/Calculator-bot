@@ -1,0 +1,10 @@
+# Required
+__pycache__/
+.env
+
+# Appeared when running the client at telethon
+*.session
+*.session-journal
+
+# PyCharm project files
+.idea/
